@@ -1,3 +1,8 @@
+/*
+ * File: 101-quote.c
+ * Auth: yeabbereket
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 
