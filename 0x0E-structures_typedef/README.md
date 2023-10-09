@@ -14,7 +14,7 @@
 * You are not allowed to publish any content of this project.
 * Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-# 1. A dog is the only thing on earth that loves you more than you love yourself
+# 1. A dog is the one  thing on earth that loves you more than you love yourself
 mandatory
 Write a function that initialize a variable of type struct dog
 
